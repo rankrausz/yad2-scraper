@@ -3,6 +3,10 @@
   "chatId": null,
   "projects": [
     {
+      "topic": "jerusalem_area",
+      "url": "https://www.yad2.co.il/realestate/rent?topArea=100&area=86&rooms=3-4&price=-1-6300"
+    },
+    {
       "topic": "mesilat_tsion",
       "url": "https://www.yad2.co.il/realestate/rent?topArea=100&area=69&city=0742&neighborhood=991304&rooms=3-4&price=-1-6300"
     }
